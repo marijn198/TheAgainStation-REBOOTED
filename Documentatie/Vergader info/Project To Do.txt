@@ -1,0 +1,16 @@
+To do:
+
+mailtje met git repository link sturen.
+Sprint afronden met bijbehorende documentatie:
+
+oa. een tool gebruiken voor de scrum meetings.
+product backlog maken door Scrum Master
+Sprint opzetten met de volgende punten:
+
+1. What can be done this sprint?
+2. How will the chosen work get done?
+3. Sprint Review
+4. Sprint Retrospective
+
+scrum and sprint information retrieved from: http://www.scrumguides.org/scrum-guide.html
+

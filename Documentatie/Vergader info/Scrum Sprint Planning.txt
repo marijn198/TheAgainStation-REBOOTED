@@ -1,0 +1,55 @@
+Sprint Planning:
+
+Starting date: Monday 28/11/2016
+Duration of the sprint:     1 week/7 days
+
+Sprint Members:
+    - Developers: Robin, Tim, Thomas, Jeroen, Marijn
+    - Scrum Master: Job
+    - Product Owners: R. Tangelder, A. Fiselier
+
+
+
+1. What can be delivered in the increment resulting from the upcoming sprint?
+
+    - Documentation and libraries for the components we are using
+    - Code snippets for the components we are using, the components should be able to output
+      data with this code.
+
+
+
+2. How will the chosen work get done?
+    
+    - The components are "assigned" between the project members, every member will execute the following steps
+      regarding the component they got.
+    - The documentation and libraries will be obtained by using trusted websites and other sources.
+
+    - The code will be written by using pair programming, this means that the code that is written by someone,
+      will be checked by their programming partner. This way we will maintain quality of code.
+    - Every member has their own git branch, here they will store their code, so it can be viewed by others.
+    - The product owners will both have access to the repository, so they can check the changes that are made.
+    - Before the code gets pushed to the master branch, it will be checked by our "Git QA Tester", Thomas G.
+
+    - The result of the code will be reviewed by the poduct owners on Monday 5/12/2016, when the sprint ends.
+
+3. Sprint review.
+
+    What will happen in the Sprint Review?
+   
+    - The Product Owner explains what Product Backlog items have been “Done” and what has not been “Done”;
+    - The Development Team discusses what went well during the Sprint, what problems it ran into, and how those problems were solved;
+    - The Development Team demonstrates the work that it has “Done” and answers questions about the Increment;
+    - The Product Owner discusses the Product Backlog as it stands. He or she projects likely completion dates based on progress to date (if needed);
+    - The entire group collaborates on what to do next, so that the Sprint Review provides valuable input to subsequent Sprint Planning;
+    - Review of how the marketplace or potential use of the product might have changed what is the most valuable thing to do next; and,
+    - Review of the timeline, budget, potential capabilities, and marketplace for the next anticipated release of the product.
+
+
+4. Sprint Retrospective.
+
+    What will be done in the Sprint Retrospective?
+
+    - Held with the sprint team only.
+    - Inspect and discuss how the last sprint went.
+    - Identify what went well and what went wrong.
+    - Create a plan for implementing improvements to the way the scrum team does its work.
